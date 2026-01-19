@@ -3,3 +3,8 @@ Building Pipeline:
 2. Add src folder along with all components(run them individuals).
 3. Add data, models, reports directories to .gitignore file
 4. Now git add, commit, push
+
+Setting up dvc Pipeline without params
+5. Create dvc.yaml file add stages to it.
+6. dvc init then do dvc repo to test the Pipeline automation 
+7. Now git add, commit, push
